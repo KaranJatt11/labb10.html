@@ -1,0 +1,23 @@
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Georgia;
+  
+    }
+
+h2 {
+    font-size:18px;
+    color: blue;
+    font-family: georgia;
+}
+.paragraph1 {
+    font-size:16px;
+    font-family: georgia;
+   text-align: center;
+}
+
+.paragraph2 {
+    font-size:16px;
+    text-align:left;
+    color:#0040ff;
+}

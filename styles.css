@@ -1,0 +1,28 @@
+div {
+    width:100%;
+   height:300px;
+}
+.F {
+   background-color:grey;
+}
+.O {
+    background-image: url("img/Old-is-gold.png");
+    background-position: center;
+    background-size: cover;
+}
+.U {
+position: absolute;
+left:0px;
+top:600px;
+background-size: cover;
+background-position: center;
+background-image: url("img/download.jpg");
+
+}
+.R {
+    position:absolute;
+    left:0;
+    top:600;
+    background-color:red;
+    opacity:0.3;
+}
